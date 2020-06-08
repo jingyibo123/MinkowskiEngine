@@ -5,7 +5,9 @@
 *.swn
 *.pyc
 
+.idea/*
 build/
 objs/
 dist/
 MinkowskiEngine.egg-info/
+results/*
